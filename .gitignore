@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+.vsconfig
+Assembly-CSharp.csproj
+Library/
+Logs/
+PRACTICE1-SCENARIO.sln
+ProjectSettings/
+UpgradeLog.htm
+UserSettings/
+obj/
