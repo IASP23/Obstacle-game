@@ -19,6 +19,7 @@ public class GameManager : MonoBehaviour
 
     public GameObject piedra1;
     public GameObject piedra2;
+    public GameObject fire;
 
     public List<GameObject> obstaculos;
 
@@ -32,6 +33,7 @@ public class GameManager : MonoBehaviour
         //crear piedra
         obstaculos.Add(Instantiate(piedra1, new Vector2(14, -2), Quaternion.identity));
         obstaculos.Add(Instantiate(piedra2, new Vector2(18, -2), Quaternion.identity));
+        obstaculos.Add(Instantiate(fire, new Vector2(22, -2), Quaternion.identity));
     }
 
     // Update is called once per frame

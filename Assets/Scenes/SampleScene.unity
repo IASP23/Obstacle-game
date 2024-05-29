@@ -664,6 +664,7 @@ MonoBehaviour:
   gameOver: 0
   piedra1: {fileID: 2383457544079922854, guid: b221c767b4917ee458bc29dbffc8a5f4, type: 3}
   piedra2: {fileID: 5368796425313493094, guid: 2603ef4fb69276d4997e44ef4a891a0c, type: 3}
+  fire: {fileID: 3073431816001188580, guid: f4e819b7f493d2544af9588d7b4e5238, type: 3}
   obstaculos: []
 --- !u!1 &741538618
 GameObject:
